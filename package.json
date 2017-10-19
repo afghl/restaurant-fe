@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-fe",
+  "version": "1.0.0",
+  "description": "restaurant front end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afghl/restaurant-fe.git"
+  },
+  "author": "afghl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afghl/restaurant-fe/issues"
+  },
+  "homepage": "https://github.com/afghl/restaurant-fe#readme"
+}
